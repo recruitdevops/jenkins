@@ -1,4 +1,4 @@
-node('bilt-in') 
+node('built-in') 
 {
     stage('Continuous Download__master') 
 	{
